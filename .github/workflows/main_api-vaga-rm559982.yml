@@ -50,4 +50,4 @@ jobs:
           app-name: 'api-vaga-rm559982'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_231505062FB443DEA7A9802204B875AF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF9D78990C794C59A7D1CA7BC4F3AEC1 }}
